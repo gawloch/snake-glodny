@@ -1,0 +1,25 @@
+﻿Kompilacja rozpoczęła się 2015-03-01 00:24:49.
+     1>Projekt „c:\Users\krzysztof\documents\visual studio 2012\Projects\Wąż\Wąż\Wąż.vcxproj” w węźle 2 (elementy docelowe: Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Wąż.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Board.cpp Food.cpp Fruit.cpp Meat.cpp Move.cpp Snake.cpp "Wąż.cpp"
+         Wąż.cpp
+         Snake.cpp
+         Move.cpp
+         Meat.cpp
+         Fruit.cpp
+         Food.cpp
+         Board.cpp
+     1>c:\users\krzysztof\documents\visual studio 2012\projects\wąż\wąż\board.h(9): error C2059: Błąd składniowy: "for"
+     1>c:\users\krzysztof\documents\visual studio 2012\projects\wąż\wąż\board.h(9): error C2143: błąd składniowy: brakuje ")" przed ";"
+     1>c:\users\krzysztof\documents\visual studio 2012\projects\wąż\wąż\board.h(9): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+     1>c:\users\krzysztof\documents\visual studio 2012\projects\wąż\wąż\board.h(9): error C2143: błąd składniowy: brakuje ";" przed "<"
+     1>c:\users\krzysztof\documents\visual studio 2012\projects\wąż\wąż\board.h(9): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+     1>c:\users\krzysztof\documents\visual studio 2012\projects\wąż\wąż\board.h(9): error C2143: błąd składniowy: brakuje ";" przed "++"
+     1>c:\users\krzysztof\documents\visual studio 2012\projects\wąż\wąż\board.h(9): error C2059: Błąd składniowy: ")"
+     1>c:\users\krzysztof\documents\visual studio 2012\projects\wąż\wąż\board.h(10): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+         Generowanie kodu...
+     1>Kompilowanie projektu „c:\Users\krzysztof\documents\visual studio 2012\Projects\Wąż\Wąż\Wąż.vcxproj” wykonane (elementy docelowe: Build) — NIEPOWODZENIE.
+
+Kompilacja NIE POWIODŁA SIĘ.
+
+Czas, który upłynął: 00:00:00.23
